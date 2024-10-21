@@ -1,11 +1,11 @@
 Design patterns are proven solutions to common problems in software design. They provide a way to structure your code in a reusable, efficient manner. Below is a brief introduction to design patterns in Java, with code examples and real-life analogies to make the concept clear.
 
 Categories of Design Patterns:
-# Creational Patterns: These patterns deal with object creation mechanisms.
-# Structural Patterns: These focus on class and object composition.
-# Behavioral Patterns: These focus on communication between objects.
+* Creational Patterns: These patterns deal with object creation mechanisms.
+* Structural Patterns: These focus on class and object composition.
+* Behavioral Patterns: These focus on communication between objects.
 
-This completes the coverage of Behavioral and Structural design patterns with simple code and real-life analogies! Here’s a recap:
+Idea behind this repo is to simplify the concept in very easy and digestable way to explain Creational, Behavioral and Structural design patterns with simple code and real-life analogies! 
 
 # Creational Patterns
 1. Singleton
